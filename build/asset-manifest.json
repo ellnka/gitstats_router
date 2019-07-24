@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitstats_router/static/css/main.f55d9146.chunk.css",
+    "main.js": "/gitstats_router/static/js/main.93c3a2c6.chunk.js",
+    "main.js.map": "/gitstats_router/static/js/main.93c3a2c6.chunk.js.map",
+    "runtime~main.js": "/gitstats_router/static/js/runtime~main.5912e900.js",
+    "runtime~main.js.map": "/gitstats_router/static/js/runtime~main.5912e900.js.map",
+    "static/css/2.266e55a5.chunk.css": "/gitstats_router/static/css/2.266e55a5.chunk.css",
+    "static/js/2.cdb988a6.chunk.js": "/gitstats_router/static/js/2.cdb988a6.chunk.js",
+    "static/js/2.cdb988a6.chunk.js.map": "/gitstats_router/static/js/2.cdb988a6.chunk.js.map",
+    "index.html": "/gitstats_router/index.html",
+    "precache-manifest.903a0ba1ffdae4a07b9fbd60d5aaae43.js": "/gitstats_router/precache-manifest.903a0ba1ffdae4a07b9fbd60d5aaae43.js",
+    "service-worker.js": "/gitstats_router/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/gitstats_router/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.f55d9146.chunk.css.map": "/gitstats_router/static/css/main.f55d9146.chunk.css.map"
+  }
+}
